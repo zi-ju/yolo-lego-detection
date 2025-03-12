@@ -1,0 +1,6 @@
+names:
+- lego
+nc: 1
+test: lego_dataset/split_dataset/test
+train: lego_dataset/split_dataset/train
+val: lego_dataset/split_dataset/val
