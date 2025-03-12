@@ -11,7 +11,7 @@ This project is a Gradio web app that uses a trained YOLOv8 model to detect LEGO
 
 
 ## Demo
-Gradio link
+[Gradio link](https://huggingface.co/spaces/zoeyziz/LEGO_Pieces_Detection_with_YOLO)
 
 
 ## Guidance
